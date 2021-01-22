@@ -22,7 +22,7 @@ Original Results:
 Results to reflect the changes to the math and reading scores of every ninth grader at Thomas High School:
 ![THS_Summary](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/THS_Summary.png)
 
-After removing the scores for all nith graders at Thomas High School the average math score decreased by 0.07, average reading score increased by 0.05, percentage passing math decreased by 0.09, prercentage passing reading decreased by 0.29 and overall percentage passing decreased by 0.32. 
+After removing the scores for all ninth graders at Thomas High School the average math score decreased by 0.07, average reading score increased by 0.05, percentage passing math decreased by 0.09, prercentage passing reading decreased by 0.29 and overall passing percentage decreased by 0.32. 
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -38,7 +38,7 @@ Even after replacing the math and reading scores of the ninth graders, Thomas Hi
 
    * Math and reading scores by grade
 
-  Original Results:
+  Original Math Results:
   
   ![Math_by_Grade_Original](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Math_by_Grade_Original.png)
 
@@ -47,7 +47,7 @@ Even after replacing the math and reading scores of the ninth graders, Thomas Hi
 
   Omitting the math scores for ninth graders at Thomas High School has no effect on the math for the other grades.
 
-  Original Results:
+  Original Reading Results:
   
   ![Reading_by_Grade_Original](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Reading_by_Grade_Original.png)
 
@@ -87,3 +87,4 @@ Even after replacing the math and reading scores of the ninth graders, Thomas Hi
   Thomas High School is a charter school and removing the ninth grader data had no impact on the overall score based on school type.
 
 ## Summary
+After removing the math and reading scores for ninth graders at Thomas High School the updated school district analysis had an overall passing rate for all schoolst was 0.3% lower. The average math score decreased by 0.07 and the average reading score increased by 0.05 for Thomas High School. Also, the overall passing percentage decreased by 0.32 for Thomas High School. 
