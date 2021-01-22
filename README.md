@@ -87,4 +87,4 @@ Even after replacing the math and reading scores of the ninth graders, Thomas Hi
   Thomas High School is a charter school and removing the ninth grader data had no impact on the overall score based on school type.
 
 ## Summary
-After removing the math and reading scores for ninth graders at Thomas High School the updated school district analysis had an overall passing rate for all schoolst was 0.3% lower. The average math score decreased by 0.07 and the average reading score increased by 0.05 for Thomas High School. Also, the overall passing percentage decreased by 0.32 for Thomas High School. 
+After removing the math and reading scores for ninth graders at Thomas High School the updated school district analysis had an overall passing rate for all schools that was 0.3% lower. The average math score decreased by 0.07 and the average reading score increased by 0.05 for Thomas High School. Also, the overall passing percentage decreased by 0.32 for Thomas High School. 
