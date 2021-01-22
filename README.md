@@ -36,52 +36,52 @@ Even after replacing the math and reading scores of the ninth graders, Thomas Hi
 
 - How does replacing the ninth-grade scores affect the following:
 
-- Math and reading scores by grade
+   * Math and reading scores by grade
 
-Original Results
-![Math_by_Grade_Original](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Math_by_Grade_Original.png)
+  Original Results
+  ![Math_by_Grade_Original](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Math_by_Grade_Original.png)
 
-Results to reflect the changes to the math scores of every ninth grader at Thomas High School
-![Math_by_Grade](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Math_by_Grade.png)
+  Results to reflect the changes to the math scores of every ninth grader at Thomas High School
+  ![Math_by_Grade](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Math_by_Grade.png)
 
-Omitting the math scores for ninth graders at Thomas High School has no effect on the math for the other grades.
+  Omitting the math scores for ninth graders at Thomas High School has no effect on the math for the other grades.
 
-Original Results
-![Reading_by_Grade_Original](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Reading_by_Grade_Original.png)
+  Original Results
+  ![Reading_by_Grade_Original](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Reading_by_Grade_Original.png)
 
-Results to reflect the changes to the reading scores of every ninth grader at Thomas High School
-![Reading_by_Grade](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Reading_by_Grade.png)
+  Results to reflect the changes to the reading scores of every ninth grader at Thomas High School
+  ![Reading_by_Grade](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Reading_by_Grade.png)
 
-Omitting the reading scores for ninth graders at Thomas High School has no effect on the reading for the other grades.
+  Omitting the reading scores for ninth graders at Thomas High School has no effect on the reading for the other grades.
 
-- Scores by school spending
+  * Scores by school spending
 
-Original Results
-![Score_by_Spending_Original](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Score_by_Spending_Original.png)
+  Original Results
+  ![Score_by_Spending_Original](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Score_by_Spending_Original.png)
 
-Results to reflect the changes to the math and reading scores of every ninth grader at Thomas High School
-![Score_by_Spending](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Score_by_Spending.png)
+  Results to reflect the changes to the math and reading scores of every ninth grader at Thomas High School
+  ![Score_by_Spending](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Score_by_Spending.png)
 
-Thomas High School spends $638/student which places it in the $630-644 spending range. Removing the ninth grader data had no impact on the overall score based on school spending. 
+  Thomas High School spends $638/student which places it in the $630-644 spending range. Removing the ninth grader data had no impact on the overall score based on school spending. 
 
-- Scores by school size
+  * Scores by school size
 
-Original Results
-![Score_by_Size_Original](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Score_by_Size_Original.png)
+  Original Results
+  ![Score_by_Size_Original](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Score_by_Size_Original.png)
 
-Results to reflect the changes to the math and reading scores of every ninth grader at Thomas High School
-![Score_by_Size](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Score_by_Size.png)
+  Results to reflect the changes to the math and reading scores of every ninth grader at Thomas High School
+  ![Score_by_Size](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Score_by_Size.png)
 
-Thomas High School has 1635 students and would be classified as a medium sized school. Removing the ninth grader data had no impact on the overall score based on school size.
+  Thomas High School has 1635 students and would be classified as a medium sized school. Removing the ninth grader data had no impact on the overall score based on      school size.
 
-- Scores by school type
+  * Scores by school type
 
-Original Results
-![Score_by_Type_Original](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Score_by_Type_Original.png)
+  Original Results
+  ![Score_by_Type_Original](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Score_by_Type_Original.png)
 
-Results to reflect the changes to the math and reading scores of every ninth grader at Thomas High School
-![Score_by_Type](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Score_by_Type.png)
+  Results to reflect the changes to the math and reading scores of every ninth grader at Thomas High School
+  ![Score_by_Type](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Score_by_Type.png)
 
-Thomas High School is a charter school and removing the ninth grader data had no impact on the overall score based on school type.
+  Thomas High School is a charter school and removing the ninth grader data had no impact on the overall score based on school type.
 
 ## Summary
