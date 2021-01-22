@@ -47,6 +47,7 @@ Even after replacing the math and reading scores of the ninth graders, Thomas Hi
   Omitting the math scores for ninth graders at Thomas High School has no effect on the math for the other grades.
 
   Original Results
+  
   ![Reading_by_Grade_Original](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Reading_by_Grade_Original.png)
 
   Results to reflect the changes to the reading scores of every ninth grader at Thomas High School
@@ -57,6 +58,7 @@ Even after replacing the math and reading scores of the ninth graders, Thomas Hi
   * Scores by school spending
 
   Original Results
+ 
   ![Score_by_Spending_Original](https://github.com/mdhugge/School_District_Analysis/blob/main/Resources/Score_by_Spending_Original.png)
 
   Results to reflect the changes to the math and reading scores of every ninth grader at Thomas High School
